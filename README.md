@@ -14,4 +14,4 @@
 # Wiki
 For more information 
 
-[Diealmond wiki page](https://github.com/codestates/DieAlmond-client/wiki)
+[Diealmond wiki page](https://github.com/habasa/DieAlmond-client/wiki)
